@@ -31,6 +31,7 @@ The application allows users to:
 
 # 📂 Project Structure
 
+
 ```text
 speech-to-text-and-text-to-speech/
 │
@@ -40,6 +41,7 @@ speech-to-text-and-text-to-speech/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
+```
 ---
 
 # ✨ Features
